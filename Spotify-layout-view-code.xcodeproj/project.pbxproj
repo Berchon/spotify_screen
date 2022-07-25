@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EEA41884288DAB9E0057ADB9 /* SpotifyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEA41883288DAB9E0057ADB9 /* SpotifyViewController.swift */; };
 		EEEE4BCD288B6AAC00A6A455 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEEE4BCC288B6AAC00A6A455 /* AppDelegate.swift */; };
 		EEEE4BCF288B6AAC00A6A455 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEEE4BCE288B6AAC00A6A455 /* SceneDelegate.swift */; };
 		EEEE4BD1288B6AAC00A6A455 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEEE4BD0288B6AAC00A6A455 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EEA41883288DAB9E0057ADB9 /* SpotifyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotifyViewController.swift; sourceTree = "<group>"; };
 		EEEE4BC9288B6AAC00A6A455 /* Spotify-layout-view-code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Spotify-layout-view-code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEEE4BCC288B6AAC00A6A455 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEEE4BCE288B6AAC00A6A455 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				EEEE4BD5288B6AAF00A6A455 /* Assets.xcassets */,
 				EEEE4BD7288B6AAF00A6A455 /* LaunchScreen.storyboard */,
 				EEEE4BDA288B6AAF00A6A455 /* Info.plist */,
+				EEA41883288DAB9E0057ADB9 /* SpotifyViewController.swift */,
 			);
 			path = "Spotify-layout-view-code";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				EEEE4BD1288B6AAC00A6A455 /* ViewController.swift in Sources */,
 				EEEE4BCD288B6AAC00A6A455 /* AppDelegate.swift in Sources */,
 				EEEE4BCF288B6AAC00A6A455 /* SceneDelegate.swift in Sources */,
+				EEA41884288DAB9E0057ADB9 /* SpotifyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
